@@ -1,4 +1,4 @@
-# Pi Emotion Sensor
+# Pi Azure Cognitive Services
 
 ## What it's about:
 
